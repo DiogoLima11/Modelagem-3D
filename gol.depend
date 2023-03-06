@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1667614997 source:e:\desktop\gol3\gol3\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
+1426360528 e:\desktop\codeblocks com opengl\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426360528 e:\desktop\codeblocks com opengl\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
